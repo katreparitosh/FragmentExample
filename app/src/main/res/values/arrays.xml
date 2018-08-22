@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="names">
+       <item>Ikhtiyar</item>
+       <item>Taabir</item>
+       <item>Qatra</item>
+       <item>Pasban</item>
+       <item>Alfaaz</item>
+       <item>Ikhlaas</item>
+       <item>Raqueeb</item>
+       <item>Maazi</item>
+       <item>Ibtida</item>
+       <item>Sanjeeda</item>
+       <item>Tishnagi</item>
+   </string-array>
+
+    <string-array name="description">
+        <item>Power</item>
+        <item>Interpretation of Dreams</item>
+        <item>Drop</item>
+        <item>Keeper</item>
+        <item>Word</item>
+        <item>Sincerity</item>
+        <item>Rival</item>
+        <item>Past</item>
+        <item>Beginning</item>
+        <item>Serious</item>
+        <item>Desire or Thirst</item>
+    </string-array>
+</resources>
